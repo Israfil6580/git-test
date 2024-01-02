@@ -34,24 +34,3 @@ img {
     background-color: blueviolet;
     color: aqua;
 }
-p {
-    font-size: 1.3rem;
-    font-family: poppins;
-    text-align: justify;
-}
-p::first-letter{
-    font-size: 3rem;
-    font-weight: bold;
-    color: blue;
-}
-p {
-    font-weight: bold;
-    font-size: 2rem;
-}
-p {
-    font-family: poppins;
-    font-weight: bold;
-}
-h1 {
-    font: 100;
-}
