@@ -25,6 +25,10 @@ img {
     letter-spacing: 0.4px;
     outline: none;
     transition: all .4s ease-in-out;
+    display: block;
+    margin: 15px auto;
+    border-radius: 5px;
+    font-size: 1.2rem;
 }
 .btn:hover{
     background-color: blueviolet;
